@@ -9,7 +9,7 @@ Getting statrted I think most amateur developers like myself found many successe
 Successes: I didn't really have alot of success early with the code. Modifying one tag would always change my layout.
            Using my resources to find answers instead of getting frustrated with fails
 
-Fails: properly modifying <div tags into semantic elements like <section>, <article>, <nav>, etc.
+Fails: properly modifying <div tags into semantic elements like <section, <article, <nav, etc.
        modifying/mimicking tags in html/css
   
   
