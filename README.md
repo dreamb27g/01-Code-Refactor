@@ -11,7 +11,9 @@ Successes: I didn't really have alot of success early with the code. Modifying o
 
 Fails: properly modifying <div tags into semantic elements like <section, <article, <nav, etc.
        - Modifying/mimicking tags in html/css
-       
+
+Credits: https://www.w3schools.com
+License: MIT License
 
   
   
